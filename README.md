@@ -1,6 +1,6 @@
 # CS410 CourseProject - Email Sentiment Analysis
 
-Topic Chosen:
+**Topic Chosen:**
 Email sentiment analysis. We will be creating a process for enterprises to quickly analyze customers’ sentiment about their product/ service.
 
 Problem Statement:
