@@ -14,7 +14,7 @@ To achieve this goal, we will have to perform Text Mining and Analysis.
  
 **Source:** Evaluating Customer Service https://www.kaggle.com/janiobachmann/evaluating-customer-service-sentiment-analysis/data
 
-**Algorithms/ Techniques:** We are considering using a Convoluted Neural Network algorithm. 
+**Algorithms/ Techniques:** We are considering using a Convolutional Neural Network algorithm. 
 Data Preprocessing – Clean the data, Convert the data to a text/ CSV format
 
 
