@@ -12,10 +12,10 @@ To achieve this goal, we will have to perform Text Mining and Analysis.
 
 **Dataset Selection:** We have chosen a dataset available in Kaggle which is a collection of customer complaints from various industries.
  
-**Source:** Evaluating Customer Service https://www.kaggle.com/janiobachmann/evaluating-customer-service-sentiment-analysis/data
+**Dataset Source:** Evaluating Customer Service https://www.kaggle.com/janiobachmann/evaluating-customer-service-sentiment-analysis/data
 
 **Algorithms/ Techniques:** We are considering using a Convolutional Neural Network algorithm. 
 
-Source Code: [email_data_cleaning.ipynb](email_data_cleaning.ipynb) and [Sentiment_CNN.ipynb](Sentiment_CNN_v1.ipynb)
+**Source Code:** [email_data_cleaning.ipynb](email_data_cleaning.ipynb) and [Sentiment_CNN.ipynb](Sentiment_CNN_v1.ipynb)
 
-Documentation: [Documentation](Documentation.md)
+**Documentation:** [Documentation](Documentation.md)
