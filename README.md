@@ -34,4 +34,15 @@ In the second section we create a ‘TextDataset’ class that is used to create
 In the third section we create the Convolutional Neural Network. The CNN is a simple one initialized with an embedding layer created from our emails. In other methods in this section, we create a method to initialize the CNN model and another method to train it. There is also a utility function to specify the model’s parameters. To complete this section, we train the model for 25 epochs, printing out the epoch, loss and training accuracy percentage for each epoch.
 In the final section we evaluate the trained model on our test dataset. Trained for 25 epochs, the model was up to 75% accuracy. The trained model is then exported as ‘CNN.pt” and can be reused in various applications for sentiment classification. The model’s accuracy can be improved by training it for more epochs. 
 
+## Usage
+This project was an exercise in sentiment classification using deep learning. The trained and exported model is in the /Model folder. The model can be deployed to a mobile app or web server for reuse. 
+
+## Team member contribution
+-	Analysis and research (16 hrs) – Siva Prakasini Veera Sikku
+-	Gather and clean data (5 hrs) – Pradosk Kumar Subudhi
+-	Build machine learning model (25 hrs) – Aaron Dunor
+-	Train and evaluate model (3 hrs) – Aaron Dunor
+-	Team collaboration (15 hrs) – Aaron Dunor, Siva Prakasini Veera Sikku, Pradosk Kumar Subudhi
+-	Project documentation (4 hrs) – Pradosk Kumar Subudhi, Aaron Dunor, Siva Prakasini Veera Sikku
+-	Demo preparation and presentation(1hr) - Pradosk Kumar Subudhi, Aaron Dunor, Siva Prakasini Veera Sikku
 
